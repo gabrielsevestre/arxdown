@@ -10,7 +10,6 @@ with the primary subject name of the paper, and name the file accordingly.
 
 import argparse
 from arxdown import meta
-from typing import Any
 from arxdown import Extractor
 
 
